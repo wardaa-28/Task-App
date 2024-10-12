@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/ReadexPro-Bold.ttf",
+      "sha1": "dde5b06eab356601c35ac0f9984724649aa658a9"
+    },
+    {
+      "path": "src/assets/fonts/ReadexPro-Medium.ttf",
+      "sha1": "f9df6817edbe84c23a0b4906be92b16552f7a384"
+    },
+    {
+      "path": "src/assets/fonts/ReadexPro-Regular.ttf",
+      "sha1": "a4488b09892df7457a952dc20d01463b86abf63a"
+    },
+    {
+      "path": "src/assets/fonts/ReadexPro-SemiBold.ttf",
+      "sha1": "b4ec28a6b1ba6ed730beb37f06b1b81c5e2163a3"
+    }
+  ]
+}
